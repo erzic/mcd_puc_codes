@@ -1,0 +1,91 @@
+genre,year,count
+acción,2010,17
+acción,2011,19
+acción,2012,12
+acción,2013,9
+acción,2014,11
+acción,2015,15
+acción,2016,16
+acción,2017,19
+acción,2018,17
+acción,2019,12
+aventura,2010,19
+aventura,2011,19
+aventura,2012,19
+aventura,2013,8
+aventura,2014,22
+aventura,2015,21
+aventura,2016,9
+aventura,2017,10
+aventura,2018,10
+aventura,2019,19
+comedia,2010,12
+comedia,2011,15
+comedia,2012,5
+comedia,2013,21
+comedia,2014,6
+comedia,2015,7
+comedia,2016,9
+comedia,2017,11
+comedia,2018,18
+comedia,2019,9
+drama,2010,5
+drama,2011,18
+drama,2012,8
+drama,2013,13
+drama,2014,18
+drama,2015,8
+drama,2016,12
+drama,2017,5
+drama,2018,15
+drama,2019,13
+terror,2010,13
+terror,2011,16
+terror,2012,7
+terror,2013,11
+terror,2014,2
+terror,2015,13
+terror,2016,4
+terror,2017,5
+terror,2018,2
+terror,2019,11
+guerras,2010,15
+guerras,2011,18
+guerras,2012,10
+guerras,2013,17
+guerras,2014,6
+guerras,2015,6
+guerras,2016,2
+guerras,2017,17
+guerras,2018,15
+guerras,2019,17
+crimen,2010,2
+crimen,2011,3
+crimen,2012,5
+crimen,2013,11
+crimen,2014,6
+crimen,2015,3
+crimen,2016,7
+crimen,2017,15
+crimen,2018,6
+crimen,2019,6
+romance,2010,16
+romance,2011,18
+romance,2012,13
+romance,2013,14
+romance,2014,20
+romance,2015,23
+romance,2016,10
+romance,2017,28
+romance,2018,18
+romance,2019,12
+mundo mágico,2010,21
+mundo mágico,2011,10
+mundo mágico,2012,18
+mundo mágico,2013,13
+mundo mágico,2014,13
+mundo mágico,2015,28
+mundo mágico,2016,15
+mundo mágico,2017,28
+mundo mágico,2018,15
+mundo mágico,2019,20
