@@ -1,0 +1,25 @@
+[MASTER]
+ignore=venv
+
+[MESSAGES CONTROL]
+disable=missing-docstring
+
+[FORMAT]
+max-line-length=100
+
+[DESIGN]
+max-args=5
+max-locals=15
+max-branches=10
+max-statements=50
+max-parents=7
+max-attributes=10
+
+[REPORTS]
+output-format=colorized
+
+[REFACTORING]
+max-nested-blocks=3
+
+[TYPECHECK]
+disable=import-error
