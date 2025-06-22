@@ -1,0 +1,29 @@
+[MASTER]
+# Configuración general
+ignore=CVS
+persistent=yes
+load-plugins=
+
+[MESSAGES CONTROL]
+# Deshabilitar algunas advertencias específicas
+disable=C0111,  # missing-docstring
+           C0103,  # invalid-name
+           R0903,  # too-few-public-methods
+           R0913,  # too-many-arguments
+           R0914,  # too-many-locals
+           W0621,  # redefined-outer-name
+           C0303,  # trailing-whitespace
+           C0301,  # line-too-long
+           C0304,  # missing-final-newline
+
+[FORMAT]
+# Configuración de formato
+max-line-length=100
+
+[BASIC]
+# Nombres de variables permitidos
+good-names=i,j,k,ex,Run,_,fd,fp,id,x,y
+
+[REPORTS]
+# Formato del reporte
+output-format=colorized 
