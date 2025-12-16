@@ -2,3 +2,9 @@
 .Rhistory
 .RData
 .Ruserdata
+
+sistemas_recomendadores/data.7z
+sistemas_recomendadores/data/
+sistemas_recomendadores/rsc15/
+sistemas_recomendadores/src/
+
