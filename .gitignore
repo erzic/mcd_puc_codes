@@ -18,12 +18,16 @@ sistemas_recomendadores_laptop/ml-100k/
 sistemas_recomendadores_laptop/ml-100k.zip
 
 geods/data/
-geods/datos_Tarea1.zip
+geods/data_T1/
 geods/data_T2/
 geods/data_T3/
 geods/datos_Tarea1/
+
+geods/data_T1.zip
 geods/data_T2.zip
 geods/data_T3.zip
+geods/datos_Tarea1.zip
+
 geods/vina.html
 geods/vm_censo2017.gpkg
 
