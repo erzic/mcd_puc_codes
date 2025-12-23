@@ -7,6 +7,16 @@ sistemas_recomendadores/data.7z
 sistemas_recomendadores/data/
 sistemas_recomendadores/rsc15/
 sistemas_recomendadores/src/
+sistemas_recomendadores/ml-100k/
+sistemas_recomendadores/ml-100k.zip
+
+sistemas_recomendadores_laptop/data.7z
+sistemas_recomendadores_laptop/data/
+sistemas_recomendadores_laptop/rsc15/
+sistemas_recomendadores_laptop/src/
+sistemas_recomendadores_laptop/ml-100k/
+sistemas_recomendadores_laptop/ml-100k.zip
+
 geods/data/
 geods/datos_Tarea1.zip
 geods/data_T2/
